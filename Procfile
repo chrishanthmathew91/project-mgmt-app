@@ -1,1 +1,1 @@
-web: node -r dotenv/server/index.js
+web: node /server/index.js
